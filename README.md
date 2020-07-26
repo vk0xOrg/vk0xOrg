@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**vk0xOrg/vk0xOrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yeah, I'll leave the heading as it is because GitHub has made it for me 😇
 
-Here are some ideas to get you started:
+I've found the way to publish own README.md to profile page thank to **maxlath**'s [profile](https://github.com/maxlath/maxlath "Navigate to maxlath"). I didn't know on this feature on GitHub. It is awesome 🤙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some stuff here
+
+> \[I've copy-pasted GitHub's suggestions what to write here\]
+
+- 🔭 I’m currently working on Translation/Localisation of Open Source Projects into Ukrainian Laguage. Here is a [list (in Ukrainian)](https://vk0xorg.github.io/os2ua/).
+- 🌱 I’m currently learning [inventaire.io](https://inventaire.io/welcome)
+- 👯 I’m looking to collaborate on Ukrainian localizations, please join Matrix's room [UA:Localization](https://matrix.to/#/!rLlUnHQkFyQBgfJJqp:matrix.org?via=matrix.org&via=tchncs.de&via=t2bot.io)
+- 🤔 I’m looking for help with the above mentioned localization
+- 💬 Ask me about anything on [Mastodon -> @vasia@mastodon.social](https://mastodon.social/@vasia)
+- 📫 How to reach me: [wheretofind.me/@meow](https://wheretofind.me/@meow)
+- 😄 Pronouns: he/his
